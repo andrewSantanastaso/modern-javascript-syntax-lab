@@ -40,7 +40,7 @@ console.log(make, model)
 
 
 
-// ***** EXERCISE 5 ***** //
+// ***** EXERCISE 4 ***** //
 
 // Duplicate the following array using the spread operator and assign it to `controversialPizzaToppings`. Then, log the variable.
 
