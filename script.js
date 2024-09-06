@@ -111,3 +111,18 @@ const createSentence = (noun = 'cat', adjective = 'white') => {
 
 console.log(createSentence())
 console.log(createSentence('dog', 'brown'))
+
+// ***** EXERCISE 9 ***** //
+
+// Convert the following `if...else` statement in to a ternary:
+
+let pizza = 'burnt';
+
+// if (pizza === 'tasty') {
+//   console.log('yum');
+// } else {
+//   console.log('yuck');
+// }
+
+// Your code here
+pizza === 'tasty' ? console.log('yum') : console.log('yuck')
