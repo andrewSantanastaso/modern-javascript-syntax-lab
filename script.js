@@ -89,3 +89,5 @@ const userProfile = {
 
 
 console.log(userProfile)
+
+// ***** EXERCISE 7 ***** //
